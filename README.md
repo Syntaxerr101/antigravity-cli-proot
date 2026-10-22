@@ -34,7 +34,7 @@ PRoot Ubuntu userland automatically.
 ### From the package archive
 
 ```sh
-unzip antigravity-cli-proot-1.0.0.zip
+unzip antigravity-cli-proot.zip
 cd antigravity-cli-proot
 bash install.sh
 ```
