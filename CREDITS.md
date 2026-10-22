@@ -1,6 +1,6 @@
 # Credits and licence notes
 
-**Dev:** Simo — `tg:syn74x_3rr`
+**Dev:** Simo
 
 ## Attribution chain
 
