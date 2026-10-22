@@ -1,4 +1,5 @@
 # Antigravity CLI for PRoot Ubuntu on Termux
+![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/antigravity-cli-proot/total) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/antigravity-cli-proot)  
 
 A standalone package that installs the Antigravity CLI inside a PRoot
 Debian/Ubuntu userland on Android.
